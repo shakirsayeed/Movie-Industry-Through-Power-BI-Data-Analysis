@@ -59,9 +59,7 @@ The Power BI file (`.pbix`) includes the following pages:
 - DAX
 - Excel (for initial data inspection)
 
-## 📬 Contact
 
-For questions or feedback, feel free to reach out via [your email or LinkedIn link].
 
 ---
 
